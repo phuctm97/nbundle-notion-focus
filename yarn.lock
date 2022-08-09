@@ -545,7 +545,7 @@
   resolved "https://registry.yarnpkg.com/@nbundle/react-types/-/react-types-1.0.19.tgz#f4b45be2a0642d4e0cef39668d0ccc6773b7b154"
   integrity sha512-CHTGY38zCFjpOiWEM2eIaQ9yPKPy2Up10lVG//IXSFR7sevm4BzRaIm0J22aFrS2qr8zQ588qF+0/XvyZ2y/AQ==
 
-"@nbundle/react@^1.0.24":
+"@nbundle/react@^1.0.29":
   version "1.0.29"
   resolved "https://registry.yarnpkg.com/@nbundle/react/-/react-1.0.29.tgz#3624906d9ddb1328829a460863a14412cfdd50f8"
   integrity sha512-sGfWZMzSiipwdKiPJelSc44BNjwSKPYEBLJKZ0ugHzB/5Oj9vuOTVSDwWlV53PbeXlEl+X9bGNJRhZ36IB4Nqg==
